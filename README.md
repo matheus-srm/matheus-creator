@@ -1,6 +1,6 @@
 ### Hello! My name is Matheus Silva and I'm a web developer 🐱
 
-- 🔭 I’m currently working on some projects to increse my soft skills
+- 🔭 I’m currently working on some projects to increase my soft skills
 - 🌱 I’m currently learning Node.js
 - ♟️ Hobby: play chess
 
